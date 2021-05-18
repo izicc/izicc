@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @izicc, weirdly enough I preach the gospel too, like alot. 
 - 👀 I’m interested in... well... alot
-- 🌱 I’m currently learning... well... a few things 
-- 💞️ I’m looking to collaborate on programming projects of iterest
+- 🌱 I’m currently learning... hmmmm... a few things.
+- 💞️ I’m looking to collaborate on programming projects of interest
 - 📫 How to reach me -> jootarisaac@gmail.com
 
 <!---
